@@ -486,6 +486,9 @@ body {
   top: 5px;
   width: 23px;
 }
+a{
+  color: #fff;
+}
 .header--regg {
   position: absolute;
   top: 50%;
@@ -1032,15 +1035,6 @@ body {
   height: 30px;
   background-color: #ff0f0f;
   border-radius: 50%;
-}
-.about--banner h2::after {
-  content: "";
-  position: absolute;
-  top: 255px;
-  left: 255px;
-  width: 10px;
-  height: 10px;
-  background-color: #ff0f0f;
 }
 .about--banner a {
   padding: 5px 17px 5px 0;
